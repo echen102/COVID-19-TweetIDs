@@ -22,6 +22,7 @@ Emily Chen, Kristina Lerman, Emilio Ferrara. #COVID-19: The First Public Coronav
 
 # Statistics Summary (v1.0)
 Number of Tweets : **8,919,411**
+
 Language Breakdown 
 | Language        | ISO     | No. tweets     | % total Tweets |
 |-------------    |-----    |------------    |----------------    |
