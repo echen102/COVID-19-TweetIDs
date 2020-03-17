@@ -16,7 +16,7 @@ A few notes about this data:
 * The file keywords.txt and accounts.txt contains the updated keywords and accounts respectively that we tracked in our data collection. Each keyword and account will be followed by the date we began tracking them. 
 
 # Data Usage Agreement
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s Terms of Service and cite the following manuscript: 
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
 
 Emily Chen, Kristina Lerman, Emilio Ferrara. #COVID-19: The First Public Coronavirus Twitter Dataset. arXiv preprint, March 18, 2020
 
@@ -38,8 +38,8 @@ Language Breakdown
 | Turkish         | tr      | 134,173        | 1.5%               |
 
 # Inquiries
-If you have technical questions about the data collection, please contact Emily Chen at echen920[at]usc[dot]edu.
-If you have any further questions about this dataset please contact Dr. Emilio Ferrara at emiliofe[at]usc[dot]edu.
+If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
+If you have any further questions about this dataset please contact Dr. Emilio Ferrara at **emiliofe[at]usc[dot]edu**.
 
 
 
