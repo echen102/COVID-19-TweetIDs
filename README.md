@@ -16,7 +16,30 @@ A few notes about this data:
 * There may be a few hours of missing data due to technical difficulties. We have done our best to recover as many Tweets from those time frames by using Twitter’s search API. 
 * We will keep a running summary of basic statistics as we upload data in each new release. 
 * The file keywords.txt and accounts.txt contains the updated keywords and accounts respectively that we tracked in our data collection. Each keyword and account will be followed by the date we began tracking them. 
-* Consider using tools such as the [Hydrator](https://github.com/DocNow/hydrator) to rehydrate the Tweet IDs. 
+* Consider using tools such as the [Hydrator](https://github.com/DocNow/hydrator) and [Twarc](https://github.com/DocNow/twarc) to rehydrate the Tweet IDs. Instructions for both are in the next section. 
+
+## How to Hydrate
+
+### Hydrating using [Hydrator](https://github.com/DocNow/hydrator) (GUI)
+Navigate to the [Hydrator github repository](https://github.com/DocNow/hydrator) and follow the instructions for installation in their README. As there are a lot of separate Tweet ID files in this repository, it might be advisable to first merge files from timeframes of interest into a larger file before hydrating the Tweets through the GUI. 
+
+### Hydrating using [Twarc](https://github.com/DocNow/twarc) (CLI)
+Many thanks to Ed Summers ([edsu](https://github.com/edsu)) for writing this script that uses [Twarc](https://github.com/DocNow/twarc) to hydrate all Tweet-IDs stored in their corresponding folders. 
+
+First install Twarc
+```
+pip3 install twarc
+```
+
+Configure Twarc with your Twitter API tokens (note you must [apply](https://developer.twitter.com/en/apply-for-access) for a Twitter developer account first in order to obtain the needed tokens)
+```
+twarc configure
+```
+
+Run the script. The hydrated Tweets will be stored in the same folder as the Tweet-ID file, and is saved as a compressed jsonl file
+```
+python3 hydrate.py
+```
 
 # Data Usage Agreement
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
@@ -44,6 +67,3 @@ Language Breakdown
 If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
 
 If you have any further questions about this dataset please contact Dr. Emilio Ferrara at **emiliofe[at]usc[dot]edu**.
-
-
-

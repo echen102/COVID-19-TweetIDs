@@ -29,7 +29,7 @@ def hydrate(id_file):
 
     gzip_path = id_file.with_suffix('.jsonl.gz')
     if gzip_path.is_file():
-        print('sipping json file already exists: {}'.format(gzip_path))
+        print('skipping json file already exists: {}'.format(gzip_path))
         return
 
     with gzip.open(gzip_path, 'w') as output:
