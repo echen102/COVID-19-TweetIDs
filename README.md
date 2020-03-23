@@ -32,7 +32,7 @@ First install Twarc
 pip3 install twarc
 ```
 
-Configure Twarc with your Twitter API tokens (note you must [apply](https://developer.twitter.com/en/apply-for-access) for a Twitter developer account first in order to obtain the needed tokens)
+Configure Twarc with your Twitter API tokens (note you must [apply](https://developer.twitter.com/en/apply-for-access) for a Twitter developer account first in order to obtain the needed tokens). You can also configure the API tokens in the script, if unable to configure through CLI. 
 ```
 twarc configure
 ```
@@ -47,7 +47,7 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
-# Current Statistics Summary (v1.1)
+# Statistics Summary (v1.1)
 Number of Tweets : **63,616,072**
 
 Language Breakdown 
@@ -64,23 +64,15 @@ Language Breakdown
 | (undefined)     | und     | 1,110,165        | 1.75%              |
 | Turkish         | tr      | 570,744          | 0.90%              |
 
-
-# Statistics Summary (v1.0)
-Number of Tweets : **8,919,411**
-
-Language Breakdown 
-| Language        | ISO     | No. tweets     | % total Tweets |
-|-------------    |-----    |------------    |----------------    |
-| English         | en      | 5,508,304      | 61.76%             |
-| Spanish         | es      | 1,167,172      | 13.09%             |
-| French          | fr      | 388,481        | 4.36%              |
-| Thai            | th      | 352,902        | 3.96%              |
-| Italian         | it      | 219,572        | 2.46%              |
-| (undefined)     | und     | 208,908        | 2.34%              |
-| Indonesian      | in      | 201,821        | 2.26%              |
-| Portuguese      | pt      | 169,599        | 1.9%               |
-| Japanese        | ja      | 145,985        | 1.64%              |
-| Turkish         | tr      | 134,173        | 1.5%               |
+# Known Gaps
+| Date          | Time              |
+|-------------  |-----              |
+| 2/1/2020      | 4:00 - 9:00 UTC   |
+| 2/8/2020      | 6:00 - 7:00 UTC   |
+| 2/22/2020     | 21:00 - 24:00 UTC |
+| 2/23/2020     | 0:00 - 24:00 UTC  |
+| 2/24/2020     | 0:00 - 4:00 UTC   |
+| 2/25/2020     | 0:00 - 3:00 UTC   |
 
 # Inquiries
 If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
