@@ -47,10 +47,23 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
-# Current Statistics Summary
-Number of Tweets : **63,589,521**
+# Current Statistics Summary (v1.1)
+Number of Tweets : **63,616,072**
 
-(Language breakdown to come)
+Language Breakdown 
+| Language        | ISO     | No. tweets       | % total Tweets |
+|-------------    |-----    |------------      |----------------    |
+| English         | en      | 44,482,496       | 69.92%             |
+| Spanish         | es      | 6,087,308        | 9.57%              |
+| Indonesian      | in      | 1,844,037        | 2.90%              |
+| French          | fr      | 1,800,318        | 2.83%              |
+| Thai            | th      | 1,687,309        | 2.65%              |
+| Portuguese      | pt      | 1,278,662        | 2.01%              |
+| Japanese        | ja      | 1,223,646        | 1.92%              |
+| Italian         | it      | 1,113,001        | 1.75%              |
+| (undefined)     | und     | 1,110,165        | 1.75%              |
+| Turkish         | tr      | 570,744          | 0.90%              |
+
 
 # Statistics Summary (v1.0)
 Number of Tweets : **8,919,411**
