@@ -20,3 +20,12 @@ sars-cov-2              3/6/2020
 COVIDー19                3/8/2020
 COVD                    3/12/2020
 pandemic                3/12/2020
+pandemie                3/31/2020
+CoronaVirusDE           3/31/2020
+coronavirusdeutschland  3/31/2020
+CoronaVirusUpdate       3/31/2020
+CoronaLockdown          3/31/2020
+COVID19de               3/31/2020
+CovidVirusUpdate        3/31/2020
+CoronaPandemie          3/31/2020
+Coronakrise             3/31/2020
