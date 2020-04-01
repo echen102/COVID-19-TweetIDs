@@ -6,3 +6,4 @@ CDCgov              1/28/2020
 WHO                 1/28/2020
 HHSGov              1/28/2020
 NIAIDNews           1/28/2020
+drtedros            3/15/2020

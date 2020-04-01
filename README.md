@@ -47,22 +47,22 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
-# Statistics Summary (v1.1)
-Number of Tweets : **63,616,072**
+# Statistics Summary (v1.2)
+Number of Tweets : **72,403,796**
 
 Language Breakdown 
-| Language        | ISO     | No. tweets       | % total Tweets |
+| Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 44,482,496       | 69.92%             |
-| Spanish         | es      | 6,087,308        | 9.57%              |
-| Indonesian      | in      | 1,844,037        | 2.90%              |
-| French          | fr      | 1,800,318        | 2.83%              |
-| Thai            | th      | 1,687,309        | 2.65%              |
-| Portuguese      | pt      | 1,278,662        | 2.01%              |
-| Japanese        | ja      | 1,223,646        | 1.92%              |
-| Italian         | it      | 1,113,001        | 1.75%              |
-| (undefined)     | und     | 1,110,165        | 1.75%              |
-| Turkish         | tr      | 570,744          | 0.90%              |
+| English         | en      | 49,525,165       | 68.40%             |
+| Spanish         | es      | 7,467,220        | 10.31%             |
+| Indonesian      | in      | 2,296,629        | 3.17%              |
+| French          | fr      | 2,164,654        | 2.99%              |
+| Thai            | th      | 1,927,905        | 2.66%              |
+| Portuguese      | pt      | 1,740,967        | 2.40%              |
+| (undefined)     | und     | 1,307,121        | 1.81%              |
+| Japanese        | ja      | 1,276,425        | 1.76%              |
+| Italian         | it      | 1,183,317        | 1.63%              |
+| Turkish         | tr      | 688,860          | 0.95%              |
 
 # Known Gaps
 | Date          | Time              |
