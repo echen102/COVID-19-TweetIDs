@@ -48,6 +48,11 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
+# Current Statistics Summary
+Number of Tweets : **87,209,465**
+
+Language breakdown to come.
+
 # Statistics Summary (v1.2)
 Number of Tweets : **72,403,796**
 
@@ -74,6 +79,7 @@ Language Breakdown
 | 2/23/2020     | 0:00 - 24:00 UTC  |
 | 2/24/2020     | 0:00 - 4:00 UTC   |
 | 2/25/2020     | 0:00 - 3:00 UTC   |
+| 3/2/2020      | Intermittent Internet Connectivity Issues |
 
 # Inquiries
 If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
