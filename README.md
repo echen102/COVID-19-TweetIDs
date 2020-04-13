@@ -48,22 +48,22 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
-# Statistics Summary (v1.3)
-Number of Tweets : **87,209,465**
+# Statistics Summary (v1.4)
+Number of Tweets : **94,671,486**
 
 Language Breakdown 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 58,456,856       | 67.03%             |
-| Spanish         | es      | 9,368,223        | 10.74%             |
-| Indonesian      | in      | 3,091,193        | 3.54%              |
-| French          | fr      | 2,681,635        | 3.07%              |
-| Thai            | th      | 2,254,162        | 2.58%              |
-| Portuguese      | pt      | 2,231,807        | 2.56%              |
-| (undefined)     | und     | 1,701,784        | 1.95%              |
-| Japanese        | ja      | 1,462,367        | 1.68%              |
-| Italian         | it      | 1,301,795        | 1.49%              |
-| Turkish         | tr      | 911,543          | 1.05%              |
+| English         | en      | 63,111,114       | 66.66%             |
+| Spanish         | es      | 10,348,964       | 10.93%             |
+| Indonesian      | in      | 3,351,221        | 3.54%              |
+| French          | fr      | 2,918,003        | 3.08%              |
+| Portuguese      | pt      | 2,474,677        | 2.61%              |
+| Thai            | th      | 2,355,393        | 2.49%              |
+| (undefined)     | und     | 1,915,551        | 2.02%              |
+| Japanese        | ja      | 1,639,825        | 1.73%              |
+| Italian         | it      | 1,362,672        | 1.44%              |
+| Turkish         | tr      | 1,011,417        | 1.7%               |
 
 # Known Gaps
 | Date          | Time              |
