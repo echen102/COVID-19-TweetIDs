@@ -51,7 +51,7 @@ Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Publ
 # Statistics Summary (v1.4)
 Number of Tweets : **94,671,486**
 
-Language Breakdown 
+Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
 | English         | en      | 63,111,114       | 66.66%             |
