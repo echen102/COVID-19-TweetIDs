@@ -15,7 +15,7 @@ A few notes about this data:
 * We will be continuously maintaining this database for the foreseeable future, and will be uploading new data on a weekly basis.  
 * There may be a few hours of missing data due to technical difficulties. We have done our best to recover as many Tweets from those time frames by using Twitter’s search API. 
 * We will keep a running summary of basic statistics as we upload data in each new release. 
-* The file keywords.txt and accounts.txt contains the updated keywords and accounts respectively that we tracked in our data collection. Each keyword and account will be followed by the date we began tracking them. 
+* The file keywords.txt and accounts.txt contains the updated keywords and accounts respectively that we tracked in our data collection. Each keyword and account will be followed by the date we began tracking them, and date we removed them (if the keyword or account has been removed) from our tracking list. 
 * Consider using tools such as the [Hydrator](https://github.com/DocNow/hydrator) and [Twarc](https://github.com/DocNow/twarc) to rehydrate the Tweet IDs. Instructions for both are in the next section. 
 * Hydrating may take a while, and Tweets may have been deleted since our initial collection. If that is the case, unfortunately you will not be able to get the deleted Tweets from querying Twitter's API. Ed Summers ([edsu](https://github.com/edsu)) hydrated the Tweets in release v1.0, taking approximately 25 hours to complete, and found that there was an approximate 6% of the Tweets that were deleted at the time of hydration, with final gzipped data size of 6.9 GB. 
 
@@ -48,22 +48,22 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
-# Statistics Summary (v1.5)
-Number of Tweets : **101,771,227**
+# Statistics Summary (v1.6)
+Number of Tweets : **109,013,655**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 67,427,185       | 66.25%             |
-| Spanish         | es      | 11,254,540       | 11.06%             |
-| Indonesian      | in      | 3,591,884        | 3.53%              |
-| French          | fr      | 3,124,414        | 3.07%              |
-| Portuguese      | pt      | 2,715,462        | 2.67%              |
-| Thai            | th      | 2,577,166        | 2.53%              |
-| (undefined)     | und     | 2,113,795        | 2.08%              |
-| Japanese        | ja      | 1,867,601        | 1.84%              |
-| Italian         | it      | 1,419,867        | 1.40%              |
-| Turkish         | tr      | 1,092,512        | 1.07%              |
+| English         | en      | 71,984,701       | 66.03%             |
+| Spanish         | es      | 12,149,916       | 11.15%             |
+| Indonesian      | in      | 3,826,448        | 3.51%              |
+| French          | fr      | 3,340,808        | 3.06%              |
+| Portuguese      | pt      | 2,928,843        | 2.69%              |
+| Thai            | th      | 2,630,420        | 2.41%              |
+| (undefined)     | und     | 2,327,240        | 2.13%              |
+| Japanese        | ja      | 2,156,385        | 1.98%              |
+| Italian         | it      | 1,484,474        | 1.36%              |
+| Turkish         | tr      | 1,165,210        | 1.07%              |
 
 # Known Gaps
 | Date          | Time              |
