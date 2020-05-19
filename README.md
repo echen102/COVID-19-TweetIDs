@@ -48,22 +48,22 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
-# Statistics Summary (v1.7)
-Number of Tweets : **115,929,358**
+# Statistics Summary (v1.9)
+Number of Tweets : **129,911,732**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 76,245,404       | 65.77%             |
-| Spanish         | es      | 13,000,982       | 11.21%             |
-| Indonesian      | in      | 4,012,099        | 3.46%              |
-| French          | fr      | 3,554,454        | 3.07%              |
-| Portuguese      | pt      | 3,148,855        | 2.72%              |
-| Thai            | th      | 2,686,041        | 2.32%              |
-| Japanese        | ja      | 2,538,512        | 2.19%              |
-| (undefined)     | und     | 2,517,028        | 2.17%              |
-| Italian         | it      | 1,550,723        | 1.34%              |
-| Turkish         | tr      | 1,241,016        | 1.07%              |
+| English         | en      | 84,930,677       | 65.38%             |
+| Spanish         | es      | 14,686,543       | 11.31%             |
+| Indonesian      | in      | 4,438,377        | 3.42%              |
+| French          | fr      | 3,947,201        | 3.04%              |
+| Portuguese      | pt      | 3,779,380        | 2.91%              |
+| Japanese        | ja      | 3,135,378        | 2.41%              |
+| (undefined)     | und     | 2,895,932        | 2.22%              |
+| Thai            | th      | 2,796,427        | 2.15%              |
+| Italian         | it      | 1,669,494        | 1.29%              |
+| Turkish         | tr      | 1,378,430        | 1.06%              |
 
 # Known Gaps
 | Date          | Time              |
@@ -75,7 +75,7 @@ Language breakdown of top 10 most prevalent languages :
 | 2/24/2020     | 0:00 - 4:00 UTC   |
 | 2/25/2020     | 0:00 - 3:00 UTC   |
 | 3/2/2020      | Intermittent Internet Connectivity Issues |
-
+| 5/14/2020     | 7:00 - 8:00 UTC   |
 # Inquiries
 If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
 
