@@ -48,22 +48,22 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020. #COVID-19: The First Public Coronavirus Twitter Dataset.  arXiv:cs.SI/2003.07372, 2020
 
-# Statistics Summary (v1.9)
-Number of Tweets : **129,911,732**
+# Statistics Summary (v1.10)
+Number of Tweets : **137,339,309**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 84,930,677       | 65.38%             |
-| Spanish         | es      | 14,686,543       | 11.31%             |
-| Indonesian      | in      | 4,438,377        | 3.42%              |
-| French          | fr      | 3,947,201        | 3.04%              |
-| Portuguese      | pt      | 3,779,380        | 2.91%              |
-| Japanese        | ja      | 3,135,378        | 2.41%              |
-| (undefined)     | und     | 2,895,932        | 2.22%              |
-| Thai            | th      | 2,796,427        | 2.15%              |
-| Italian         | it      | 1,669,494        | 1.29%              |
-| Turkish         | tr      | 1,378,430        | 1.06%              |
+| English         | en      | 89,446,467       | 65.13%             |
+| Spanish         | es      | 15,651,897       | 11.40%             |
+| Indonesian      | in      | 4,703,023        | 3.42%              |
+| Portuguese      | pt      | 4,228,772        | 3.08%              |
+| French          | fr      | 4,100,588        | 2.99%              |
+| Japanese        | ja      | 3,365,432        | 2.45%              |
+| (undefined)     | und     | 3,094,598        | 2.25%              |
+| Thai            | th      | 2,887,217        | 2.10%              |
+| Italian         | it      | 1,726,624        | 1.26%              |
+| Turkish         | tr      | 1,452,652        | 1.06%              |
 
 # Known Gaps
 | Date          | Time              |
