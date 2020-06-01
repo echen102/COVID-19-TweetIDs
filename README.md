@@ -52,22 +52,22 @@ JMIR Public Health Surveill 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v1.10)
-Number of Tweets : **137,339,309**
+# Statistics Summary (v1.11)
+Number of Tweets : **144,747,801**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 89,446,467       | 65.13%             |
-| Spanish         | es      | 15,651,897       | 11.40%             |
-| Indonesian      | in      | 4,703,023        | 3.42%              |
-| Portuguese      | pt      | 4,228,772        | 3.08%              |
-| French          | fr      | 4,100,588        | 2.99%              |
-| Japanese        | ja      | 3,365,432        | 2.45%              |
-| (undefined)     | und     | 3,094,598        | 2.25%              |
-| Thai            | th      | 2,887,217        | 2.10%              |
-| Italian         | it      | 1,726,624        | 1.26%              |
-| Turkish         | tr      | 1,452,652        | 1.06%              |
+| English         | en      | 94,369,403       | 65.20%             |
+| Spanish         | es      | 16,588,272       | 11.46%             |
+| Indonesian      | in      | 4,914,741        | 3.40%              |
+| Portuguese      | pt      | 4,522,335        | 3.12%              |
+| French          | fr      | 4,241,157        | 2.93%              |
+| Japanese        | ja      | 3,537,748        | 2.44%              |
+| (undefined)     | und     | 3,279,442        | 2.27%              |
+| Thai            | th      | 2,924,431        | 2.02%              |
+| Italian         | it      | 1,782,514        | 1.23%              |
+| Turkish         | tr      | 1,507,370        | 1.04%              |
 
 # Known Gaps
 | Date          | Time              |
@@ -80,6 +80,7 @@ Language breakdown of top 10 most prevalent languages :
 | 2/25/2020     | 0:00 - 3:00 UTC   |
 | 3/2/2020      | Intermittent Internet Connectivity Issues |
 | 5/14/2020     | 7:00 - 8:00 UTC   |
+
 # Inquiries
 If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
 
