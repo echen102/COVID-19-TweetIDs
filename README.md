@@ -2,7 +2,10 @@
 
 The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020. We used the Twitter’s search API to gather historical Tweets from the preceding 7 days, leading to the first Tweets in our dataset dating back to January 21, 2020. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
+**DATA COLLECTION UPDATE: We have migrated our data collection to AWS, with upgraded computation and network specifications. This has enabled us to collect significantly more Tweets every hour, and the number of Tweet-IDs we will be uploading each week from release v2.0 onwards will be greater than the number of Tweet-IDs we have been able to collect in previous releases. Please see our notes section for further details.** 
+
 The associated paper to this repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://publichealth.jmir.org/2020/2/e19273/)
+
 
 ## Data Organization
 The Tweet-IDs are organized as follows:
@@ -11,7 +14,11 @@ The Tweet-IDs are organized as follows:
 * Note that Twitter returns Tweets in UTC, and thus all Tweet ID folders and file names are all in UTC as well. 
 
 ## Notes About the Data
-A few notes about this data: 
+
+### Data Collection Method Migrated to AWS (Release v2.0)
+We have recently migrated our data collection to AWS. Because of our recent shift and upgrade of computing and network specifications, we're excited to announce that we are now able to collect (and consequently release) a significantly greater number of Tweet IDs. We will be continuing to leverage AWS for the foreseeable future - please be aware that from release v2.0 and onwards, there will be a significant increase in the number of Tweet-IDs contained in each hourly file. We are increasing the major version of the releases to reflect this change in collection infrastructure. No other parameters have changed (e.g. keywords tracked, accounts followed) that have not previously been documented, and there is not a gap in data collection as we switched to AWS, as we ensured that was an overlap in hours collected during the migration. 
+
+### Other Notes
 * We will be continuously maintaining this database for the foreseeable future, and will be uploading new data on a weekly basis.  
 * There may be a few hours of missing data due to technical difficulties. We have done our best to recover as many Tweets from those time frames by using Twitter’s search API. 
 * We will keep a running summary of basic statistics as we upload data in each new release. 
@@ -52,22 +59,22 @@ JMIR Public Health Surveill 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v1.12)
-Number of Tweets : **152, 862,137**
+# Statistics Summary (v2.0)
+Number of Tweets : **183,011,739**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 99,753,283       | 65.26%             |
-| Spanish         | es      | 17,678,687       | 11.57%             |
-| Indonesian      | in      | 5,133,446        | 3.36%              |
-| Portuguese      | pt      | 4,850,362        | 3.17%              |
-| French          | fr      | 4,393,918        | 2.87%              |
-| Japanese        | ja      | 3,670,726        | 2.40%              |
-| (undefined)     | und     | 3,451,912        | 2.26%              |
-| Thai            | th      | 2,991,427        | 1.96%              |
-| Italian         | it      | 1,849,528        | 1.21%              |
-| Turkish         | tr      | 1,577,658        | 1.03%              |
+| English         | en      | 117,868,338      | 64.40%             |
+| Spanish         | es      | 22,395,793       | 12.24%             |
+| Portuguese      | pt      | 6,900,098        | 3.77%              |
+| Indonesian      | in      | 6,124,708        | 3.35%              |
+| French          | fr      | 4,917,804        | 2.69%              |
+| (undefined)     | und     | 4,242,198        | 2.32%              |
+| Japanese        | ja      | 4,061,424        | 2.22%              |
+| Thai            | th      | 3,154,030        | 1.72%              |
+| Italian         | it      | 2,089,938        | 1.14%              |
+| Hindi           | hi      | 2,008,659        | 1.10%              |
 
 # Known Gaps
 | Date          | Time              |
