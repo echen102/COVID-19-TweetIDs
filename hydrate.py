@@ -17,7 +17,7 @@ from twarc import Twarc
 from pathlib import Path
 
 twarc = Twarc()
-data_dirs = ['2020-01', '2020-02', '2020-03', '2020-04', '2020-05', '2020-06']
+data_dirs = ['2020-01', '2020-02', '2020-03', '2020-04', '2020-05', '2020-06', '2020-07']
 
 
 def main():
