@@ -59,22 +59,22 @@ JMIR Public Health Surveill 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.3) 
-Number of Tweets : **272,346,129**
+# Statistics Summary (v2.4) 
+Number of Tweets : **302,377,492**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 178,749,702      | 65.63%             |
-| Spanish         | es      | 34,749,653       | 12.76%             |
-| Portuguese      | pt      | 10,497,310       | 3.85%              |
-| Indonesian      | in      | 7,936,066        | 2.91%              |
-| Undefined       | und     | 6,531,125        | 2.4%               |
-| French          | fr      | 6,368,869        | 2.34%              |
-| Japanese        | ja      | 5,018,438        | 1.84%              |
-| Thai            | th      | 3,508,870        | 1.29%              |
-| Hindi           | hi      | 2,971,606        | 1.09%              |
-| Turkish         | tr      | 2,690,310        | 0.99%              |
+| English         | en      | 199,789,377      | 66.07%             |
+| Spanish         | es      | 38,477,687       | 12.73%             |
+| Portuguese      | pt      | 11,865,812       | 3.92%              |
+| Indonesian      | in      | 8,480,320        | 2.8%               |
+| Undefined       | und     | 7,354,640        | 2.43%              |
+| French          | fr      | 6,826,740        | 2.26%              |
+| Japanese        | ja      | 5,327,080        | 1.76%              |
+| Thai            | th      | 3,633,528        | 1.2%               |
+| Hindi           | hi      | 3,213,590        | 1.06%              |
+| Turkish         | tr      | 2,839,437        | 0.94%              |
 
 
 # Known Gaps
@@ -93,3 +93,8 @@ Language breakdown of top 10 most prevalent languages :
 If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
 
 If you have any further questions about this dataset please contact Dr. Emilio Ferrara at **emiliofe[at]usc[dot]edu**.
+
+# Related Papers
+- [What types of COVID-19 conspiracies are populated by Twitter bots?](https://firstmonday.org/ojs/index.php/fm/article/view/10633/9548)
+- [Political polarization drives online conversations about COVID ‐19 in the United States](https://publons.com/publon/10.1002/hbe2.202/)
+
