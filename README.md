@@ -96,5 +96,5 @@ If you have any further questions about this dataset please contact Dr. Emilio F
 
 # Related Papers
 - [What types of COVID-19 conspiracies are populated by Twitter bots?](https://firstmonday.org/ojs/index.php/fm/article/view/10633/9548)
-- [Political polarization drives online conversations about COVID ‐19 in the United States](https://publons.com/publon/10.1002/hbe2.202/)
+- [Political polarization drives online conversations about COVID ‐19 in the United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hbe2.202)
 
