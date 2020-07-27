@@ -59,22 +59,22 @@ JMIR Public Health Surveill 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.5) 
-Number of Tweets : **330,683,492**
+# Statistics Summary (v2.6) 
+Number of Tweets : **360,594,376**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets     | % total Tweets     |
 |-------------    |-----    |------------    |----------------    |
-| English         | en      | 219,846,790    | 66.48%             |
-| Spanish         | es      | 41,951,902     | 12.69%             |
-| Portuguese      | pt      | 12,771,927     | 3.86%              |
-| Indonesian      | in      | 8,912,870      | 2.7%               |
-| Undefined       | und     | 8,127,946      | 2.46%              |
-| French          | fr      | 7,225,169      | 2.18%              |
-| Japanese        | ja      | 5,629,746      | 1.7%               |
-| Thai            | th      | 4,093,084      | 1.24%              |
-| Hindi           | hi      | 3,517,176      | 1.06%              |
-| Italian         | it      | 3,018,193      | 0.91%              |
+| English         | en      | 239,831,253    | 66.51%             |
+| Spanish         | es      | 45,999,640     | 12.76%             |
+| Portuguese      | pt      | 14,204,685     | 3.94%              |
+| Indonesian      | in      | 9,695,719      | 2.69%              |
+| Undefined       | und     | 8,955,350      | 2.48%              |
+| French          | fr      | 7,679,924      | 2.13%              |
+| Japanese        | ja      | 5,956,904      | 1.65%              |
+| Thai            | th      | 4,293,378      | 1.19%              |
+| Hindi           | hi      | 3,887,356      | 1.08%              |
+| Italian         | it      | 3,208,807      | 0.89%              |
 
 # Known Gaps
 | Date          | Time              |
@@ -95,5 +95,5 @@ If you have any further questions about this dataset please contact Dr. Emilio F
 
 # Related Papers
 - [What types of COVID-19 conspiracies are populated by Twitter bots?](https://firstmonday.org/ojs/index.php/fm/article/view/10633/9548)
-- [Political polarization drives online conversations about COVID ‐19 in the United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hbe2.202)
+- [Political polarization drives online conversations about COVID‐19 in the United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hbe2.202)
 
