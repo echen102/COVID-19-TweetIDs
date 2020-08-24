@@ -60,7 +60,19 @@ PMID: 32427106
 # Statistics Summary (v2.10) 
 Number of Tweets : **479,056,112**
 
-Language breakdown to be updated.
+Language breakdown of top 10 most prevalent languages : 
+| Language        | ISO     | No. tweets     | % total Tweets     |
+|-------------    |-----    |------------    |----------------    |
+| English         | en      | 319,576,280    | 66.71%             |
+| Spanish         | es      | 62,535,012     | 13.05%             |
+| Portuguese      | pt      | 18,298,772     | 3.82%              |
+| Undefined       | und     | 12,340,419     | 2.58%              |
+| Indonesian      | in      | 12,282,038     | 2.56%              |
+| French          | fr      | 9,877,248      | 2.06%              |
+| Japanese        | ja      | 7,253,421      | 1.51%              |
+| Hindi           | hi      | 4,904,634      | 1.02%              |
+| Thai            | th      | 4,747,998      | 0.99%              |
+| Italian         | it      | 4,358,384      | 0.91%              |
 
 # Known Gaps
 | Date          | Time              |
