@@ -57,24 +57,23 @@ JMIR Public Health Surveill 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.11) 
-Number of Tweets : **509,120,827**
+# Statistics Summary (v2.12) 
+Number of Tweets : **538,469,015**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 340,351,931      | 66.85%             |
-| Spanish         | es      | 66,441,398       | 13.05%             |
-| Portuguese      | pt      | 19,047,293       | 3.74%              |
-| Undefined       | und     | 13,265,465       | 2.61%              |
-| Indonesian      | in      | 12,818,952       | 2.52%              |
-| French          | fr      | 10,522,244       | 2.07%              |
-| Japanese        | ja      | 7,488,767        | 1.47%              |
-| Hindi           | hi      | 5,180,374        | 1.02%              |
-| Thai            | th      | 4,897,303        | 0.96%              |
-| German          | de      | 4,725,601        | 0.93%              |
+| English         | en      | 360,049,351      | 66.87%             |
+| Spanish         | es      | 70,166,379       | 13.03%             |
+| Portuguese      | pt      | 20,001,426       | 3.71%              |
+| Undefined       | und     | 14,058,083       | 2.61%              |
+| Indonesian      | in      | 13,568,234       | 2.52%              |
+| French          | fr      | 11,288,519       | 2.1%               |
+| Japanese        | ja      | 7,706,550        | 1.43%              |
+| Hindi           | hi      | 5,447,285        | 1.01%              |
+| German          | de      | 5,146,039        | 0.96%              |
+| Thai            | th      | 5,087,958        | 0.94%              |
 
-Language breakdown to be updated.
 # Known Gaps
 | Date          | Time              |
 |-------------  |-----              |
