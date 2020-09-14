@@ -57,22 +57,22 @@ JMIR Public Health Surveill 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.12) 
-Number of Tweets : **538,469,015**
+# Statistics Summary (v2.13) 
+Number of Tweets : **566,906,570**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets     |
-|-------------    |-----    |------------      |----------------    |
-| English         | en      | 360,049,351      | 66.87%             |
-| Spanish         | es      | 70,166,379       | 13.03%             |
-| Portuguese      | pt      | 20,001,426       | 3.71%              |
-| Undefined       | und     | 14,058,083       | 2.61%              |
-| Indonesian      | in      | 13,568,234       | 2.52%              |
-| French          | fr      | 11,288,519       | 2.1%               |
-| Japanese        | ja      | 7,706,550        | 1.43%              |
-| Hindi           | hi      | 5,447,285        | 1.01%              |
-| German          | de      | 5,146,039        | 0.96%              |
-| Thai            | th      | 5,087,958        | 0.94%              |
+| Language        | ISO     | No. tweets       | % total Tweets    |
+|-------------    |-----    |------------      |----------------   |
+| English         | en      | 379,263,492      | 66.9%             |
+| Spanish         | es      | 73,603,499       | 12.98%            |
+| Portuguese      | pt      | 20,861,616       | 3.68%             |
+| Undefined       | und     | 14,820,477       | 2.61%             |
+| Indonesian      | in      | 14,491,941       | 2.56%             |
+| French          | fr      | 12,183,477       | 2.15%             |
+| Japanese        | ja      | 7,911,153        | 1.4%              |
+| Hindi           | hi      | 5,701,426        | 1.01%             |
+| Turkish         | tr      | 5,495,812        | 0.97%             |
+| German          | de      | 5,450,678        | 0.96%             |
 
 # Known Gaps
 | Date          | Time              |
@@ -87,6 +87,9 @@ Language breakdown of top 10 most prevalent languages :
 | 5/14/2020     | 7:00 - 8:00 UTC   |
 
 # Inquiries
+
+Please read through the README and the closed issues to see if your question has already been addressed first. 
+
 If you have technical questions about the data collection, please contact Emily Chen at **echen920[at]usc[dot]edu**.
 
 If you have any further questions about this dataset please contact Dr. Emilio Ferrara at **emiliofe[at]usc[dot]edu**.
