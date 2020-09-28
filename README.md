@@ -53,26 +53,26 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Chen E, Lerman K, Ferrara E
 Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set
-JMIR Public Health Surveill 2020;6(2):e19273 
+JMIR Public Health Surveillance 2020;6(2):e19273 
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.14) 
-Number of Tweets : **595,604,117**
+# Statistics Summary (v2.15) 
+Number of Tweets : **623,169,751**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets    |
-|-------------    |-----    |------------      |----------------   |
-| English         | en      | 399,211,278      | 67.03%            |
-| Spanish         | es      | 76,937,698       | 12.92%            |
-| Portuguese      | pt      | 21,643,986       | 3.63%             |
-| Undefined       | und     | 15,547,901       | 2.61%             |
-| Indonesian      | in      | 15,369,366       | 2.58%             |
-| French          | fr      | 13,014,462       | 2.19%             |
-| Japanese        | ja      | 8,096,614        | 1.36%             |
-| Hindi           | hi      | 5,945,447        | 1.0%              |
-| Turkish         | tr      | 5,859,450        | 0.98%             |
-| German          | de      | 5,733,306        | 0.96%             |
+| Language        | ISO     | No. tweets     | % total Tweets    |
+|-------------    |-----    |------------    |----------------   |
+| English         | en      | 417,553,170    | 67.0%             |
+| Spanish         | es      | 80,104,685     | 12.85%            |
+| Portuguese      | pt      | 22,591,362     | 3.63%             |
+| Indonesian      | in      | 16,335,591     | 2.62%             |
+| Undefined       | und     | 16,243,675     | 2.61%             |
+| French          | fr      | 14,086,997     | 2.26%             |
+| Japanese        | ja      | 8,337,608      | 1.34%             |
+| Turkish         | tr      | 6,199,952      | 0.99%             |
+| Hindi           | hi      | 6,120,151      | 0.98%             |
+| German          | de      | 6,071,018      | 0.97%             |
 
 
 # Known Gaps
