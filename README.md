@@ -57,22 +57,22 @@ JMIR Public Health Surveillance 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.18) 
-Number of Tweets : **708,574,183**
+# Statistics Summary (v2.19) 
+Number of Tweets : **736,297,019**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets    |
-|-------------    |-----    |------------      |----------------   |
-| English         | en      | 478,526,315      | 67.53%            |
-| Spanish         | es      | 88,112,964       | 12.44%            |
-| Portuguese      | pt      | 24,432,645       | 3.45%             |
-| Indonesian      | in      | 19,393,115       | 2.74%             |
-| Undefined       | und     | 18,402,837       | 2.6%              |
-| French          | fr      | 16,978,925       | 2.4%              |
-| Japanese        | ja      | 8,852,194        | 1.25%             |
-| German          | de      | 7,239,416        | 1.02%             |
-| Turkish         | tr      | 6,839,666        | 0.97%             |
-| Italian         | it      | 6,643,031        | 0.94%             |
+| Language        | ISO     | No. tweets     | % total Tweets     |
+|-------------    |-----    |------------    |----------------    |
+| English         | en      | 497,685,659    | 67.59%             |
+| Spanish         | es      | 90,842,059     | 12.34%             |
+| Portuguese      | pt      | 25,203,331     | 3.42%              |
+| Indonesian      | in      | 20,152,473     | 2.74%              |
+| Undefined       | und     | 19,157,595     | 2.6%               |
+| French          | fr      | 17,925,933     | 2.43%              |
+| Japanese        | ja      | 9,008,154      | 1.22%              |
+| German          | de      | 7,831,368      | 1.06%              |
+| Italian         | it      | 7,151,588      | 0.97%              |
+| Turkish         | tr      | 7,041,376      | 0.96%              |
 
 
 # Known Gaps
