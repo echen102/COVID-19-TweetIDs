@@ -57,22 +57,22 @@ JMIR Public Health Surveillance 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.25) 
-Number of Tweets : **896,413,524**
+# Statistics Summary (v2.26) 
+Number of Tweets : **922,468,360**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets     |
-|-------------    |-----    |------------      |----------------    |
-| English         | en      | 607,346,491      | 67.75%             |
-| Spanish         | es      | 105,648,005      | 11.79%             |
-| Portuguese      | pt      | 29,723,763       | 3.32%              |
-| Undefined       | und     | 24,991,150       | 2.79%              |
-| French          | fr      | 24,172,504       | 2.7%               |
-| Indonesian      | in      | 23,314,315       | 2.6%               |
-| German          | de      | 11,276,317       | 1.26%              |
-| Japanese        | ja      | 10,270,892       | 1.15%              |
-| Italian         | it      | 9,713,433        | 1.08%              |
-| Turkish         | tr      | 9,424,864        | 1.05%              |
+| Language        | ISO     | No. tweets       | % total Tweets    |
+|-------------    |-----    |------------      |----------------   |
+| English         | en      | 625,211,488      | 67.78%            |
+| Spanish         | es      | 107,929,102      | 11.7%             |
+| Portuguese      | pt      | 30,738,459       | 3.33%             |
+| Undefined       | und     | 26,049,282       | 2.82%             |
+| French          | fr      | 24,856,411       | 2.69%             |
+| Indonesian      | in      | 23,845,746       | 2.58%             |
+| German          | de      | 11,945,897       | 1.29%             |
+| Japanese        | ja      | 10,578,042       | 1.15%             |
+| Italian         | it      | 9,973,363        | 1.08%             |
+| Turkish         | tr      | 9,820,500        | 1.06%             |
 
 # Known Gaps
 | Date          | Time              |
