@@ -4,6 +4,7 @@ The repository contains an ongoing collection of tweets IDs associated with the 
 
 The associated paper to this repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://publichealth.jmir.org/2020/2/e19273/)
 
+** RELEASE PAUSE DUE TO SERVER MAINTENANCE (12/26/2020): The servers where we are hosting our data are undergoing maintenance for the next week and a half. We will be unable to update data until then, but expect to catch up with all uploads by January 8, 2021. We apologize for the inconvenience! **
 
 ## Data Organization
 The Tweet-IDs are organized as follows:
