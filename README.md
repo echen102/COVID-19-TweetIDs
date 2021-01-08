@@ -4,7 +4,6 @@ The repository contains an ongoing collection of tweets IDs associated with the 
 
 The associated paper to this repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://publichealth.jmir.org/2020/2/e19273/)
 
-** RELEASE PAUSE DUE TO SERVER MAINTENANCE (12/26/2020): The servers where we are hosting our data are undergoing maintenance for the next week and a half. We will be unable to update data until then, but expect to catch up with all uploads by January 8, 2021. We apologize for the inconvenience! **
 
 ## Data Organization
 The Tweet-IDs are organized as follows:
@@ -58,22 +57,22 @@ JMIR Public Health Surveillance 2020;6(2):e19273
 DOI: 10.2196/19273 
 PMID: 32427106
 
-# Statistics Summary (v2.27) 
-Number of Tweets : **952,549,092**
+# Statistics Summary (v2.28) 
+Number of Tweets : **1,011,527,974**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets    |
-|-------------    |-----    |------------      |----------------   |
-| English         | en      | 644,906,980      | 67.7%             |
-| Spanish         | es      | 111,120,753      | 11.67%            |
-| Portuguese      | pt      | 32,022,385       | 3.36%             |
-| Undefined       | und     | 27,099,557       | 2.84%             |
-| French          | fr      | 25,759,442       | 2.7%              |
-| Indonesian      | in      | 24,368,472       | 2.56%             |
-| German          | de      | 12,814,433       | 1.35%             |
-| Japanese        | ja      | 10,877,984       | 1.14%             |
-| Italian         | it      | 10,323,395       | 1.08%             |
-| Turkish         | tr      | 10,191,219       | 1.07%             |
+| Language        | ISO     | No. tweets       | % total Tweets     |
+|-------------    |-----    |------------      |----------------    |
+| English         | en      | 682,909,873      | 67.51%             |
+| Spanish         | es      | 118,112,636      | 11.68%             |
+| Portuguese      | pt      | 34,404,825       | 3.4%               |
+| Undefined       | und     | 28,817,757       | 2.85%              |
+| French          | fr      | 27,780,014       | 2.75%              |
+| Indonesian      | in      | 25,545,498       | 2.53%              |
+| German          | de      | 13,902,033       | 1.37%              |
+| Japanese        | ja      | 11,557,180       | 1.14%              |
+| Italian         | it      | 10,907,873       | 1.08%              |
+| Turkish         | tr      | 10,878,663       | 1.08%              |
 
 # Known Gaps
 | Date          | Time              |
@@ -98,4 +97,3 @@ If you have any further questions about this dataset please contact Dr. Emilio F
 # Related Papers
 - [What types of COVID-19 conspiracies are populated by Twitter bots?](https://firstmonday.org/ojs/index.php/fm/article/view/10633/9548)
 - [Political polarization drives online conversations about COVID‐19 in the United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hbe2.202)
-
