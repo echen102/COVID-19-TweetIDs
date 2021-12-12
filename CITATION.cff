@@ -1,0 +1,18 @@
+cff-version: 2.76
+title: >-
+  Tracking Social Media Discourse About the COVID-19
+  Pandemic: Development of a Public Coronavirus
+  Twitter Data Set
+message: >-
+  By using this dataset, you agree to abide by the
+  stipulations in the license, remain in compliance
+  with Twitter’s Terms of Service, and cite the
+  following
+type: dataset
+authors:
+  - name-particle: Emily
+    family-names: Chen
+  - name-particle: Kristina
+    family-names: Lerman
+  - name-particle: Emilio
+    family-names: Ferrara
