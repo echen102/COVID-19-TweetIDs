@@ -8,6 +8,7 @@ authors:
 - family-names: "Ferrara"
   given-names: "Emilio"
 title: "Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set"
+type: dataset
 version: 2.76
 date-released: 2021-12-12
 url: "https://github.com/echen102/COVID-19-TweetIDs"
