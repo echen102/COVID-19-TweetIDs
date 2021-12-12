@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s Terms of Service, and cite the following"
+authors:
+- family-names: "Chen"
+  given-names: "Emily"
+- family-names: "Lerman"
+  given-names: "Kristina"
+- family-names: "Ferrara"
+  given-names: "Emilio"
+title: "Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set"
+version: 2.76
+date-released: 2021-12-12
+url: "https://github.com/echen102/COVID-19-TweetIDs"
