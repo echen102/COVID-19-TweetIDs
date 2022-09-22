@@ -1,0 +1,18 @@
+cff-version: 1.0.0
+message: "By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s Terms of Service, and cite the following"
+authors:
+- family-names: "Chen"
+  given-names: "Emily"
+  orcid: "https://orcid.org/0000-0003-2363-9889"
+- family-names: "Lerman"
+  given-names: "Kristina"
+  orcid: "https://orcid.org/0000-0002-5071-0575"
+- family-names: "Ferrara"
+  given-names: "Emilio"
+  orcid: "https://orcid.org/0000-0002-1942-2831"
+title: "Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set"
+type: dataset
+version: 2.77
+doi: 10.2196/19273
+date-released: 2021-12-12
+url: "https://github.com/echen102/COVID-19-TweetIDs"
